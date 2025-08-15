@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adititomar11" alt="adititomar11" /></a> </p>
 
-- 🔭 I’m currently working on [Nohunger project](https://github.com/AditiTomar11/NOHUNGER)
-
 - 🌱 I’m currently learning **data structure**
 
 - 💬 Ask me about **front end**
